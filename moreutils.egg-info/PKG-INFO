@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: moreutils
+Version: 0.1
+Summary: A collection of utility functions for text, and conversions
+Home-page: https://github.com/OussamaERrafif/MoreUtils
+Author: Oussama Errafif
+Author-email: Oussamaerra2002@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: nltk
+Requires-Dist: scipy
+Requires-Dist: tqdm
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: transformers
+Requires-Dist: sentencepiece
+Requires-Dist: tensorflow
+Requires-Dist: keras
+Requires-Dist: gensim
+Requires-Dist: spacy
+Requires-Dist: stanza
+Requires-Dist: beautifulsoup4
+Requires-Dist: requests
+Requires-Dist: flask
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: streamlit
+Requires-Dist: dash
+Requires-Dist: plotly
+Requires-Dist: bokeh
+Requires-Dist: dash-bootstrap-components
+Requires-Dist: dash-core-components
+Requires-Dist: dash-html-components
+Requires-Dist: dash-renderer
+Requires-Dist: dash-table
+Requires-Dist: dash-daq
+Requires-Dist: dash-cytoscape
+Requires-Dist: dash-canvas
+Requires-Dist: dash-uploader
+Requires-Dist: dash-extensions
+Requires-Dist: dash-leaflet
+Requires-Dist: dash-geoplot
+Requires-Dist: dash-bio
+Requires-Dist: dash-bio-utils
+Requires-Dist: dash-cytoscape
