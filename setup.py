@@ -271,7 +271,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=[
-        'numpy', 'pandas', 'matplotlib', 'scikit-learn', 'seaborn', 'nltk', 'scipy', 'tqdm', 'torch', 'torchvision', 'transformers', 'sentencepiece', 'tensorflow', 'keras', 'gensim', 'spacy', 'stanza', 'beautifulsoup4', 'requests', 'flask', 'fastapi', 'uvicorn', 'streamlit', 'dash', 'plotly', 'bokeh', 'dash-bootstrap-components', 'dash-core-components', 'dash-html-components', 'dash-renderer', 'dash-table', 'dash-daq', 'dash-cytoscape', 'dash-canvas', 'dash-uploader', 'dash-extensions', 'dash-leaflet', 'dash-geoplot', 'dash-bio', 'dash-bio-utils', 'dash-cytoscape'
+        'csv','random','string','json','re','datetime','math'
     ], 
     keywords=['python', 'utils'],
     classifiers=[
